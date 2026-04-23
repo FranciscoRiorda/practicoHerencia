@@ -1,0 +1,1 @@
+# README práctico de herencia
